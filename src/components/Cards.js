@@ -14,6 +14,23 @@ function Cards() {
                    text='xplore the hidden waterfall deep inside'
                   path='/page1'
                    />
+                   <CardItem
+                  src='/images/download.jpeg'
+                   text='xplore the hidden waterfall deep inside'
+                  path='/page1'
+                   />
+                  <CardItem
+                  src='/images/download.jpeg'
+                   text='xplore the hidden waterfall deep inside'
+                  path='/page1'
+                   />
+                  <CardItem
+                  src='/images/download.jpeg'
+                   text='xplore the hidden waterfall deep inside'
+                  path='/page1'
+                   />
+
+
                 </ul>
                 </div>  
           </div>

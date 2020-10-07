@@ -29,8 +29,8 @@ function Navbar () {
       <nav className = 'navbar'>
         <div className = 'navbar-container'>
           <Link to = '/' className = 'navbar-logo' onClick = {closeMobileMenu}>
-            logo
-            <i class = 'fab fa-typo3' />
+            TRVL
+            <i className = 'fab fa-typo3' />
           </Link>
           <div className = 'menu-icon' onClick = {handleClick}>
             <i className = {click? 'fas fa-times': 'fas fa-bars'} />
@@ -47,7 +47,7 @@ function Navbar () {
                 className = 'nav-links'
                 onClick = {closeMobileMenu}
               >
-                page1
+                Services
               </Link>
             </li>
             <li className = 'nav-item'>
@@ -56,7 +56,7 @@ function Navbar () {
                 className = 'nav-links'
                 onClick = {closeMobileMenu}
               >
-                Page2
+                Products
               </Link>
             </li>
 
