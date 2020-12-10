@@ -4,7 +4,7 @@ import '../../App.css';
 
  function Products() {
   return (
-     <h1 className='products'>PRODUCTShhhhhh</h1>
+     <h1 className='products'></h1>
   )
 }
 
